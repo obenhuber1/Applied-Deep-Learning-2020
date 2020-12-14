@@ -12,7 +12,6 @@ TU course on Deep Learning
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url ]
 
 
@@ -32,11 +31,6 @@ TU course on Deep Learning
     <a href="https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
