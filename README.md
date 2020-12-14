@@ -116,7 +116,7 @@ spyder
 
 ### Running the Model
 
-1. Download and Extract Python Scripts and Dataset: https://drive.google.com/drive/folders/1byyM77cB9nhInWufULu-Sv3DWNGneHsg?usp=sharing
+1. Download and Extract Python Scripts and Dataset: https://drive.google.com/file/d/140Sq1PFMA8ulEIibaffwdQhfuFH9GKMW/view?usp=sharing
 
 2. Open 'simba_cnn_vgg3_data_prep.py' and adapt the "Main Directory" in line 11.
 
