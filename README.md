@@ -94,14 +94,19 @@ Later on here comes a screenshot of the final application.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps:
-
-### Replicating the Toolchain
+Either use your existing Toolchain and customize it or create a fresh Environment (below steps were tested on Anaconda3 Powershell for Windows10).
 
 Please make sure you have an up-and-running Python environment with the following packages:
 * Tensorflow 2.1.0
 * Keras 2.3.1
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
+
+### Replicating the Toolchain
+´´´
+conda create
+
+´´´
+
 
 ### Running the Model
 
@@ -110,8 +115,8 @@ Please make sure you have an up-and-running Python environment with the followin
 2. Train the model using 
 
 
-<!-- application -->
-## Getting Started
+<!-- APPLICATION -->
+## Running the Web App
 
 To get a local copy up and running follow these simple steps:
 
