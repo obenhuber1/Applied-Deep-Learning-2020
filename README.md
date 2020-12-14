@@ -78,16 +78,8 @@ The Dataset used for training consists of ~ 1000 pictures from Simba taken by me
 
 Implementation was done in Python Keras with underlying Tensorflow.
 
-I will collect around 300 pictures from Simba and mix it with pictures of other dog breeds from Stanford Dog Dataset. In addition I will add around 300 pictures from other Golden Retrievers including Simba’s family.
-
-
-Here comes a screenshot of the final application.
+Later on here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`obenhuber1`, `Applied-Deep-Learning-2020`,  `christoph.obenhuber@gmx.at`, `Is it Simba ?`, `Image Classification for three classes using CNN`
-
 
 ### Built With
 
@@ -185,3 +177,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [license-url]: https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/res/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/christoph-obenhuber-2752564/
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
