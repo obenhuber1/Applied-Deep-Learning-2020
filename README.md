@@ -72,7 +72,16 @@ TU course on Deep Learning
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+My project is inspired by my dog Simba, a three year old Golden Retriever. I built a Convolutional Neural Network (VGG3 Style) which tries to identify if the dog on a given image is Simba, a Golden Retriever (not being Simba) or some other dog breed (multiclass problem with 3 classes).
 
+The Dataset used for training consists of ~ 1000 pictures from Simba taken by me between 1.3.2019 and 14.12.2020 as well as the same number of images for the other two classes from the <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/main.html">"Stanford Dog Dataset"</a> and the <a href="https://cg.cs.tsinghua.edu.cn/ThuDogs/">"Tsinghua Dog Dataset"</a>.
+
+Implementation was done in Python Keras with underlying Tensorflow.
+
+I will collect around 300 pictures from Simba and mix it with pictures of other dog breeds from Stanford Dog Dataset. In addition I will add around 300 pictures from other Golden Retrievers including Simba’s family.
+
+
+Here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
@@ -82,9 +91,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* Python 3.6.10
+* Tensorflow 2.1.0
+* Keras 2.3.1
+* Additional Packages: os, sys, numpy, matplotlib, sklearn
 
 
 
@@ -172,15 +182,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+
+[license-url]: https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/res/LICENSE.txt
+[linkedin-url]: https://www.linkedin.com/in/christoph-obenhuber-2752564/
