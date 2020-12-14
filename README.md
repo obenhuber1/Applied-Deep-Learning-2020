@@ -49,6 +49,13 @@ TU course on Deep Learning
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#prerequisites">Replicating the Toolchain</a></li>
+        <li><a href="#installation">Running the Model</a></li>
+      </ul>
+    </li>
+        <li>
+      <a href="#application">Final Web Application</a>
+      <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -103,7 +110,23 @@ Please make sure you have an up-and-running Python environment with the followin
 2. Train the model using 
 
 
+<!-- application -->
+## Getting Started
 
+To get a local copy up and running follow these simple steps:
+
+### Prerequisites
+
+Please make sure you have an up-and-running Python environment with the following packages:
+* Tensorflow 2.1.0
+* Keras 2.3.1
+* Additional Packages: os, sys, numpy, matplotlib, sklearn
+
+### Installation
+
+1. Download and Extract Python Scripts and Dataset
+
+2. Train the model using 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
