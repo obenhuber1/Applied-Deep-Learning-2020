@@ -80,6 +80,7 @@ Later on here comes a screenshot of the final application.
 * Tensorflow 2.1.0
 * Keras 2.3.1
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
+* IDE Spyder
 
 
 
@@ -90,22 +91,17 @@ To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Please make sure you have an up-and-running Python environment with the following packages:
+* Tensorflow 2.1.0
+* Keras 2.3.1
+* Additional Packages: os, sys, numpy, matplotlib, sklearn
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+1. Download and Extract Python Scripts and Dataset
+
+2. Train the model using 
+
 
 
 
