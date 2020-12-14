@@ -81,7 +81,11 @@ Implementation was done in Python using Package "Keras" (not tf.keras) and Tenso
 
 As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, it seems to b routine to achieve approximately 80% accuracy with a manually designed convolutional neural network and 90%+ accuracy using transfer learning on this task. As I created my CNN manually, I also chose 80% overall accuracy plus 80% accuracy in group "Simba" as the target I wanted to achieve. Best results on the validation set were 79% overall accuracy and 81% for Simba, so pretty close.
 
-
+| Work item     | TO BE         | AS IS |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Later on here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
