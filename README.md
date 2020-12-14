@@ -80,7 +80,7 @@ The Dataset used for training consists of ~ 1000 pictures from Simba taken by me
 
 Implementation was done in Python using Package "Keras" (not tf.keras) and Tensorflow.
 
-As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, it seems to b routine to achieve approximately 80% accuracy with a manually designed convolutional neural network and 90%+ accuracy using transfer learning on this task. As I created my CNN manually, I also chose 80% overall accuracy plus 80% accuracy in group "Simba" as the target I wanted to achieve. Best results on the validation set were 79% overall accuracy and 81% for Simba, so pretty close.
+As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, it seems to be routine to achieve approximately 80% accuracy with a manually designed convolutional neural network and 90%+ accuracy using transfer learning on this task. As I created my CNN manually, I also chose 80% overall accuracy plus 80% accuracy in group "Simba" as the target I wanted to achieve. Best results on the validation set were 79% overall accuracy and 81% for Simba, so pretty close.
 
 ### Effort estimation planned vs. actual in days
 | Work item           | TO BE | AS IS |
@@ -92,16 +92,12 @@ As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, 
 | Improve Data Proc.  | 5     | 1     |
 | Tune Network        | 10    | 15    |
 
-Later on here comes a screenshot of the final application.
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 * Python 3.6.10
 * Tensorflow GPU 2.1.0
 * Keras 2.3.1
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
 * IDE Spyder
-
 
 
 <!-- GETTING STARTED -->
