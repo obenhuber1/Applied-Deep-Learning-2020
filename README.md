@@ -21,7 +21,7 @@ TU course on Deep Learning
 <br />
 <p align="center">
   <a href="https://github.com/obenhuber1/Applied-Deep-Learning-2020">
-    <img src="res/simba_title.jpg" alt="Logo" width="80" height="80">
+    <img src="res/simba_title.jpg" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Is it Simba ?</h3>
@@ -29,7 +29,7 @@ TU course on Deep Learning
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/obenhuber1/Applied-Deep-Learning-2020/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -77,7 +77,7 @@ TU course on Deep Learning
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`obenhuber1`, `Applied-Deep-Learning-2020`,  `christoph.obenhuber@gmx.at`, `project_title`, `project_description`
 
 
 ### Built With
@@ -91,7 +91,7 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
