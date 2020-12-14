@@ -44,6 +44,7 @@ TU course on Deep Learning
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Effort-estimation-planned-vs.-actual-in-days">Effort estimation planned vs. actual in days</a></li>        
       </ul>
     </li>
     <li>
@@ -81,7 +82,7 @@ Implementation was done in Python using Package "Keras" (not tf.keras) and Tenso
 
 As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, it seems to b routine to achieve approximately 80% accuracy with a manually designed convolutional neural network and 90%+ accuracy using transfer learning on this task. As I created my CNN manually, I also chose 80% overall accuracy plus 80% accuracy in group "Simba" as the target I wanted to achieve. Best results on the validation set were 79% overall accuracy and 81% for Simba, so pretty close.
 
-### Effort estimation planned vs. actual in days:
+### Effort estimation planned vs. actual in days
 | Work item           | TO BE | AS IS |
 | ------------------- |-------|-------|
 | Gather knowledge    | 5     | 10    |
