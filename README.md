@@ -54,7 +54,7 @@ TU course on Deep Learning
       </ul>
     </li>
         <li>
-      <a href="#application">Final Web Application</a>
+      <a href="#final-web-application">Final Web Application</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -77,7 +77,7 @@ My project is inspired by my dog Simba, a three year old Golden Retriever. I bui
 
 The Dataset used for training consists of ~ 1000 pictures from Simba taken by me between 1.3.2019 and 14.12.2020 as well as the same number of images for the other two classes from the <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/main.html" target="_blank">"Stanford Dog Dataset"</a> and the <a href="https://cg.cs.tsinghua.edu.cn/ThuDogs/" target="_blank">"Tsinghua Dog Dataset"</a>.
 
-Implementation was done in Python Keras with underlying Tensorflow.
+Implementation was done in Python using Package "Keras" (not tf.keras) and Tensorflow.
 
 Later on here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -94,7 +94,7 @@ Later on here comes a screenshot of the final application.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Either use your existing Toolchain and customize it or create a fresh Environment (below steps were tested on Anaconda3 Powershell for Windows10).
+Either use your existing Toolchain and customize it or create a fresh Environment to replicate the Toolchain (below steps were tested on Anaconda3 Powershell for Windows10).
 
 Please make sure you have an up-and-running Python environment with the following packages:
 * Tensorflow 2.1.0
@@ -102,10 +102,10 @@ Please make sure you have an up-and-running Python environment with the followin
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
 
 ### Replicating the Toolchain
-´´´
+```
 conda create
 
-´´´
+```
 
 
 ### Running the Model
