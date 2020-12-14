@@ -76,7 +76,6 @@ Later on here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
-
 * Python 3.6.10
 * Tensorflow 2.1.0
 * Keras 2.3.1
@@ -142,16 +141,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Christoph Obenhuber - christoph.obenhuber@gmx.at
 
 
 
