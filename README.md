@@ -12,8 +12,8 @@ TU course on Deep Learning
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url ]
 
 
 
@@ -74,7 +74,7 @@ TU course on Deep Learning
 ## About The Project
 My project is inspired by my dog Simba, a three year old Golden Retriever. I built a Convolutional Neural Network (VGG3 Style) which tries to identify if the dog on a given image is Simba, a Golden Retriever (not being Simba) or some other dog breed (multiclass problem with 3 classes).
 
-The Dataset used for training consists of ~ 1000 pictures from Simba taken by me between 1.3.2019 and 14.12.2020 as well as the same number of images for the other two classes from the <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/main.html">"Stanford Dog Dataset"</a> and the <a href="https://cg.cs.tsinghua.edu.cn/ThuDogs/">"Tsinghua Dog Dataset"</a>.
+The Dataset used for training consists of ~ 1000 pictures from Simba taken by me between 1.3.2019 and 14.12.2020 as well as the same number of images for the other two classes from the <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/main.html" target="_blank">"Stanford Dog Dataset"</a> and the <a href="https://cg.cs.tsinghua.edu.cn/ThuDogs/" target="_blank">"Tsinghua Dog Dataset"</a>.
 
 Implementation was done in Python Keras with underlying Tensorflow.
 
