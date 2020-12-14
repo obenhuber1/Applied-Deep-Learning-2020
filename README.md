@@ -118,14 +118,14 @@ spyder
 
 1. Download and Extract Python Scripts and Dataset: https://github.com/obenhuber1/Applied-Deep-Learning-2020/blob/main/test/release_ex2/github_simba_ex2.zip
 
-2. Open 'simba_cnn_vgg3_data_prep.py' and adapt the "Main Directory" in line 11
+2. Open 'simba_cnn_vgg3_data_prep.py' and adapt the "Main Directory" in line 11.
 
-3. Run Data Preparation Script 'simba_cnn_vgg3_data_prep.py'. ATTENTION: it will delete the directory contained in variable 'dst_directory' including all subfolders
-   Check if subfolders under /images_model/ where populated properly
+3. Run Data Preparation Script 'simba_cnn_vgg3_data_prep.py'. ATTENTION: it will delete the directory contained in variable 'dst_directory' including all subfolders.  
+   Check if subfolders under /images_model/ were populated properly.
  
-4. Run Model Training Script 'simba_cnn_vgg3_model.py' and check results in folder /model_outputs/
+4. Run Model Training Script 'simba_cnn_vgg3_model.py' and check results in folder /model_outputs/.
 
-5. In case you want to do some predictions using your own data put them in the folder /images_model/test and run the Script 'simba_cnn_vgg3_predict.py'
+5. In case you want to do some predictions using your own data put them in the folder /images_model/test and run the Script 'simba_cnn_vgg3_predict.py'.
 
 
 <!-- APPLICATION -->
