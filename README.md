@@ -85,8 +85,11 @@ As error metric I chose "Accuracy". Following Cats and Dogs Kaggle competition, 
 | Work item           | TO BE | AS IS |
 | ------------------- |-------|-------|
 | Gather knowledge    | 5     | 10    |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Collect data        | 4.5   | 2     |
+| Data Processing     | 5     | 3     |
+| Build prototype     | 2     | 2     |
+| Improve Data Proc.  | 5     | 1     |
+| Tune Network        | 10    | 15    |
 
 Later on here comes a screenshot of the final application.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
