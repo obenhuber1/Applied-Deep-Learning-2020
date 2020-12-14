@@ -84,7 +84,7 @@ Later on here comes a screenshot of the final application.
 
 ### Built With
 * Python 3.6.10
-* Tensorflow 2.1.0
+* Tensorflow GPU 2.1.0
 * Keras 2.3.1
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
 * IDE Spyder
@@ -97,13 +97,19 @@ Later on here comes a screenshot of the final application.
 Either use your existing Toolchain and customize it or create a fresh Environment to replicate the Toolchain (below steps were tested on Anaconda3 Powershell for Windows10).
 
 Please make sure you have an up-and-running Python environment with the following packages:
-* Tensorflow 2.1.0
+* Tensorflow GPU 2.1.0
 * Keras 2.3.1
-* Additional Packages: os, sys, numpy, matplotlib, sklearn
+* Additional Packages: os, sys, numpy, matplotlib, scikit-learn
 
 ### Replicating the Toolchain
 ```
-conda create
+conda create -n simba python=3.6 tensorflow-gpu
+conda activate simba
+pip install keras==2.3.1
+conda install matplotlib
+conda install scikit-learn
+conda install spyder
+spyder
 
 ```
 
@@ -112,7 +118,14 @@ conda create
 
 1. Download and Extract Python Scripts and Dataset
 
-2. Train the model using 
+2. Open 'simba_cnn_vgg3_data_prep.py' and adapt the "Main Directory" in line 11
+
+3. Run Data Preparation Script 'simba_cnn_vgg3_data_prep.py'. ATTENTION: it will delete the directory contained in variable 'dst_directory' including all subfolders
+   Check if subfolders under /images_model/ where populated properly
+ 
+4. Run Model Training Script 'simba_cnn_vgg3_model.py' and check results in folder /model_outputs/
+
+5. In case you want to do some predictions using your own data put them in the folder /images_model/test and run the Script 'simba_cnn_vgg3_predict.py'
 
 
 <!-- APPLICATION -->
