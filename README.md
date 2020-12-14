@@ -49,8 +49,8 @@ TU course on Deep Learning
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Replicating the Toolchain</a></li>
-        <li><a href="#installation">Running the Model</a></li>
+        <li><a href="#replicating-the-toolchain">Replicating the Toolchain</a></li>
+        <li><a href="#running-the-model">Running the Model</a></li>
       </ul>
     </li>
         <li>
