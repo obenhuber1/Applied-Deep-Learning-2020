@@ -116,7 +116,7 @@ spyder
 
 ### Running the Model
 
-1. Download and Extract Python Scripts and Dataset
+1. Download and Extract Python Scripts and Dataset: https://github.com/obenhuber1/Applied-Deep-Learning-2020/blob/main/test/release_ex2/github_simba_ex2.zip
 
 2. Open 'simba_cnn_vgg3_data_prep.py' and adapt the "Main Directory" in line 11
 
