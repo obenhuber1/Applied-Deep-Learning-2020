@@ -27,9 +27,9 @@ TU course on Deep Learning
   <h3 align="center">Is it Simba ?</h3>
 
   <p align="center">
-    project_description
+    Image Classification for three classes using CNN
     <br />
-    <a href="https://github.com/obenhuber1/Applied-Deep-Learning-2020/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -77,7 +77,7 @@ TU course on Deep Learning
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`obenhuber1`, `Applied-Deep-Learning-2020`,  `christoph.obenhuber@gmx.at`, `project_title`, `project_description`
+`obenhuber1`, `Applied-Deep-Learning-2020`,  `christoph.obenhuber@gmx.at`, `Is it Simba ?`, `Image Classification for three classes using CNN`
 
 
 ### Built With
