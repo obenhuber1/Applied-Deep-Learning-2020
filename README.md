@@ -96,14 +96,14 @@ Later on here comes a screenshot of the final application.
 
 To get a local copy up and running follow these simple steps:
 
-### Prerequisites
+### Replicating the Toolchain
 
 Please make sure you have an up-and-running Python environment with the following packages:
 * Tensorflow 2.1.0
 * Keras 2.3.1
 * Additional Packages: os, sys, numpy, matplotlib, sklearn
 
-### Installation
+### Running the Model
 
 1. Download and Extract Python Scripts and Dataset
 
@@ -118,15 +118,14 @@ To get a local copy up and running follow these simple steps:
 ### Prerequisites
 
 Please make sure you have an up-and-running Python environment with the following packages:
-* Tensorflow 2.1.0
-* Keras 2.3.1
-* Additional Packages: os, sys, numpy, matplotlib, sklearn
+* ...
+
 
 ### Installation
 
-1. Download and Extract Python Scripts and Dataset
+1. ...
 
-2. Train the model using 
+2. ...
 
 <!-- USAGE EXAMPLES -->
 ## Usage
