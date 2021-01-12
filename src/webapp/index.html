@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="/lib/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css" />
+    
+
+
+    <title>Is it Simba ?</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="card card-simba" style="width: 40rem;">
+        <div class="card-header">
+          <h2 class="card-title">Let's check it out if the model works !</h2>
+        </div>
+        <hr />
+  
+        <div class="row">
+          <div class="col-6">
+            <input id="image-selector" class="form-control border-0" type="file" />
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-6">
+              <h3 class="ml-3">Uploaded Image</h3>
+              <img id="selected-image" class="ml-3" width="250" alt="" />
+            </div>
+
+        <div class="card-body">
+          <button type="button" id="prediction-generate" href="#" class="btn btn-outline-dark btn-lg">Make Prediction</a></button>
+          <hr />
+          <p class="card-text" id="prediction-result" style="font-size:20px"></p>
+        </div>
+      </div>
+    </div>
+
+  
+    <script src="lib/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="lib/jquery.js"></script>   
+    <script src="lib/lodash.js"></script>
+    <script src="lib/tfjs.js"></script>
+    <script src="lib/index.js"></script>
+
+
+  </body>
+</html>
