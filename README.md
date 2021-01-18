@@ -136,8 +136,8 @@ spyder
 <!-- APPLICATION -->
 ## Web Application
 
-The main files (index.html, index.js and jason.js with the model code) can be found under /src/webapp
-Model weights and CSS sheets were not uploaded to Github as in total they summed up to 130MB.
+The main files (index.html, index.js with the model code) can be found under /src/webapp <br>
+Model weights and CSS sheets were not uploaded to Github as in total they summed up to 130MB.<br>
 https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/src/webapp
 
 
