@@ -138,21 +138,13 @@ spyder
 
 
 <!-- APPLICATION -->
-## Running the Web App
+## Web Application
 
-To get a local copy up and running follow these simple steps:
-
-### Prerequisites
-
-Please make sure you have an up-and-running Python environment with the following packages:
-* ...
+The main files (index.html, index.js and jason.js with the model code) can be found under /src/webapp
+Model weights and CSS sheets were not uploaded to Github as in total they summed up to 130MB.
+https://github.com/obenhuber1/Applied-Deep-Learning-2020/tree/main/src/webapp
 
 
-### Installation
-
-1. ...
-
-2. ...
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -200,9 +192,7 @@ Christoph Obenhuber - christoph.obenhuber@gmx.at
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+
 
 
 
