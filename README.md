@@ -55,11 +55,7 @@ TU course on Deep Learning
       </ul>
     </li>
         <li>
-      <a href="#final-web-application">Final Web Application</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#web-application">Final Web Application</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
